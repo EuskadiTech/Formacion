@@ -1,3 +1,6 @@
+---
+icon: material/home
+---
 # ¡Bienvenidx a EuskadiTech!
 
 En esta web creamos tutoriales para aprender a usar las tecnologías, de forma gratuita, y sin publicidad invasiva.
