@@ -269,7 +269,7 @@ theme:
   features:
   # Announce
   #
-  #- announce.dismiss # Adds a "X" button to dismiss a news banner/mark it as read.*
+  - announce.dismiss # Adds a "X" button to dismiss a news banner/mark it as read.*
   
   # Header
   #
@@ -502,4 +502,5 @@ markdown_extensions:
   #- pymdownx.tasklist:
   #- pymdownx.tilde:
 plugins:
-  - social
+  - social:
+      cards_layout: default/variant
