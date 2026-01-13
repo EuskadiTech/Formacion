@@ -94,6 +94,10 @@ repo_url: https://github.com/EuskadiTech/Formacion
 # +--------------------------------------------------------------------------------------------------------+
 nav:
   - Inicio: index.md
+  - MS Office:
+    - Word: msoffice/word.md
+  - Google Workspace:
+    - Documentos: googlews/docs.md
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
